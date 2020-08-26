@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 Esta es mi historia
 
 MI nombre es Jeison Andres Arias, tengo 35 años
+=======
+Esta es la historia de Jeison Andres Arias
+
+Naci en Palmira en 21 de junio de 1985
+
+maÃ±ana nos enfocaremos en su vida laboral
+>>>>>>> a0089af0b93470fd3e24ee75642a205b079e60a5
